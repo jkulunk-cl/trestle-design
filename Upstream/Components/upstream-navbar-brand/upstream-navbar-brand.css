@@ -1,0 +1,13 @@
+/*  Copy logo to static assets folder: /wwwroot/img   */
+
+.upstream-brand .navbar-logo {
+  background-image: url('/img/upstream-logo-sm.png');
+}
+
+.upstream-brand .upstream-title { display:block;}
+
+.upstream-brand small {
+  display:block;
+  font-size: 0.625em;
+  font-family: geomanist-light,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+}

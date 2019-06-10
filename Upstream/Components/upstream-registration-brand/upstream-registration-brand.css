@@ -1,0 +1,6 @@
+/*  Copy logo to static assets folder: /wwwroot/img   */
+
+.upstream-registration-brand .upstream-logo {
+	width: 381px;
+	height: 100px;
+}
